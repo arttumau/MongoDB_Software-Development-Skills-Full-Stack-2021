@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "61e0044aa6afd63afbbf0973"
+  },
+  "title": "Post One",
+  "body": "Body of post one",
+  "category": "News",
+  "tags": [
+    "news",
+    "events"
+  ],
+  "user": {
+    "name": "Arttu M",
+    "status": "author"
+  },
+  "date": "Thu Jan 13 2022 12:51:54 GMT+0200 (FLE Standard Time)",
+  "comments": [
+    {
+      "body": "Comment One",
+      "user": "Mary W",
+      "date": "Thu Jan 13 2022 13:04:44 GMT+0200 (FLE Standard Time)"
+    },
+    {
+      "body": "Comment Two",
+      "user": "Harry W",
+      "date": "Thu Jan 13 2022 13:04:44 GMT+0200 (FLE Standard Time)"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61e0052da6afd63afbbf0974"
+  },
+  "title": "Post Two"
+},{
+  "_id": {
+    "$oid": "61e0052da6afd63afbbf0975"
+  },
+  "title": "Post Three",
+  "body": "Body of post three",
+  "category": "News",
+  "date": "Thu Jan 13 2022 12:55:41 GMT+0200 (FLE Standard Time)"
+}]
